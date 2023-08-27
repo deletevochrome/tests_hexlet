@@ -1,0 +1,15 @@
+{
+  "name": "tests_hexlet",
+  "version": "1.0.0",
+  "description": "testsLearning",
+  "main": "capitalize.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mambahuamba",
+  "license": "ISC"
+}
